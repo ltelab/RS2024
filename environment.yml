@@ -1,4 +1,4 @@
-name: exo-rs2023
+name: exo-rs2024
 channels:
 - https://conda.anaconda.org/conda-forge
 dependencies:
